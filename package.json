@@ -1,12 +1,12 @@
 {
-  "name": "logseq-fenced-code-plus",
+  "name": "logseq-fenced-code-plus-volkanunsal",
   "version": "0.0.9",
   "description": "A Logseq plugin for missing types of fenced code block.",
   "scripts": {
     "dev": "parcel serve ./index.html --public-url ./ --no-hmr",
     "build": "parcel build ./index.html --public-url ."
   },
-  "repository": "https://github.com/xyhp915/logseq-fenced-code-plus.git",
+  "repository": "https://github.com/volkanunsal/logseq-fenced-code-plus.git",
   "author": "charlie",
   "license": "MIT",
   "private": false,
